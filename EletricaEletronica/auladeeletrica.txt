@@ -1,0 +1,13 @@
+Data: 25/04/2022
+
+Medida das tensões da tomada= 121,5V
+(Obs: ...)
+
+Testando a continuidade do cabo de força:
+(Obs: Testei em diodo, e zerou em todas as pontas da tomada)
+
+Testando a fonte com o cabo de força ligado na tomada:
+
+3,3v (Laranja) 3,31
+5v (Vermelho) 5,11
+12 (Amarelo) 12,17
