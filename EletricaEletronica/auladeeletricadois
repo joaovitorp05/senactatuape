@@ -1,0 +1,25 @@
+Elétrica 09/05/22
+
+Tensões da tomada= 123,5
+Continuidade do cabo= 00,00
+Resistencia do cabo= 00,00
+
+
+
+Testador da fonte:
+
+PG= 280ms
+5VSB= 5,0
+-12V= 11,9
++5V= 5,0
++12V1= 11,9
++3.3V= 3,3
+
+ Corrente continua da Protoboard
+ 6v e 12v
+ Leds ok
+ 
+ 
+ Corrente= 0,33
+ Tensão= 11,86
+ Potenciometro= 127
